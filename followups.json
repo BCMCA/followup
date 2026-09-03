@@ -20,23 +20,18 @@
   "p": "73F"
  },
  {
+  "n": "26-05",
+  "c": "Flash Pulmonary Edema",
+  "p": "83F"
+ },
+ {
   "n": "26-06",
   "c": "Unsteadiness",
   "p": "83F"
  },
  {
   "n": "26-07",
-  "c": "COMPLAINT",
-  "p": "AGE_SEX"
- },
- {
-  "n": "26-07",
   "c": "NSTEMI Cardiomyopathy",
   "p": "91F"
- },
- {
-  "n": "26-05",
-  "c": "Flash Pulmonary Edema",
-  "p": "83F"
  }
 ]
