@@ -73,5 +73,10 @@
   "n": "26-15",
   "c": "Respiratory Arrest, Cardiac Arrest",
   "p": "52F"
+ },
+ {
+  "n": "26-16",
+  "c": "Hypercapnic Respiratory Failure",
+  "p": "45F"
  }
 ]
